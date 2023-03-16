@@ -13,9 +13,9 @@
 
 // Your code goes here
 function logMessage() {
-    console.log('Hello, World!')
+    console.log('Hello, World!');
 }
-logMessage()
+
 
 
 /**
@@ -30,9 +30,9 @@ logMessage()
 
 // Your code goes here...
 function logMyMessage(message) {
-    console.log(message)
+    console.log(message);
 }
-logMyMessage(`I log my first message!`)
+
 
 /**
  * ===============================================================
@@ -45,12 +45,9 @@ logMyMessage(`I log my first message!`)
 
 // Your code goes here...
 function logMessageWithMyName(name) {
-
-
-    console.log(`My name is ${name}!`)
-
+    console.log(`My name is ${name}!`);
 }
-logMessageWithMyName('Brittany')
+
 
 /**
  * ==============================================================
@@ -64,14 +61,13 @@ logMessageWithMyName('Brittany')
 
 // Your code goes here...
 function logMyInfo(name, age) {
-
-    console.log(`My name is ${name}. I am ${age} years old!`)
+    console.log(`My name is ${name}. I am ${age} years old!`);
 }
-logMyInfo('Brittany', 33)
-    // === TEST YOURSELF ===
-    // Once you're finished run the test with "npm run test-1"
-    // If the test has all tests passed, switch to the next exercise file
-    // If any of the tests fails, refactor the code and run the test command after you've fixed the function
+
+// === TEST YOURSELF ===
+// Once you're finished run the test with "npm run test-1"
+// If the test has all tests passed, switch to the next exercise file
+// If any of the tests fails, refactor the code and run the test command after you've fixed the function
 
 
 // Do not delete or change the lines beneath
