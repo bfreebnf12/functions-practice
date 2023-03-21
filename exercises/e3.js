@@ -21,7 +21,7 @@ function doesArrayIncludeItemsBetweenVals(arr, val1, val2) {
             return true;
         }
     }
-    return false
+    return false;
 }
 
 

@@ -12,7 +12,7 @@
 
 // Your function code starts here...
 function rectArea(sideA, sideB) {
-    return sideA * sideB
+    return sideA * sideB;;
 }
 
 // Use the function you created above to calculate the areas of 3 rooms
@@ -21,9 +21,9 @@ function rectArea(sideA, sideB) {
 
 // Your code goes here:
 
-const room1 = rectArea(4, 6)
-const room2 = rectArea(13, 3)
-const room3 = rectArea(4, 8)
+const room1 = rectArea(4, 6);
+const room2 = rectArea(13, 3);
+const room3 = rectArea(4, 8);
 
 
 
